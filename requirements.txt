@@ -1,0 +1,7 @@
+datasets==3.0.2
+diffusers==0.31.0
+Pillow==11.0.0
+PyYAML==6.0.2
+torch==2.5.1+cu124
+torchvision==0.20.1+cu124
+wandb==0.18.7
